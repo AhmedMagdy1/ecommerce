@@ -1,7 +1,7 @@
 {
   "products": [
 		{
-      "id": 1,
+      			"id": 1,
 			"thumbImg": "https://www.whiskas.de/content/img/product/thumb/5900951265358.png",
 			"detailImg": "https://www.whiskas.de/content/img/product/detail/5900951265358.png",
 			"title": "1+ Mit Huhn 800g",
@@ -9,7 +9,7 @@
 		},
 		
 		{
-      "id": 2,
+      			"id": 2,
 			"thumbImg": "https://www.whiskas.de/content/img/product/thumb/5900951259098.png",
 			"detailImg": "https://www.whiskas.de/content/img/product/detail/5900951259098.png",
 			"title": "1+ Mit Rind 800g",
@@ -17,28 +17,28 @@
 		},
 		
 		{
-      "id": 3,
+      			"id": 3,
 			"thumbImg": "https://www.whiskas.de/content/img/product/thumb/5900951259289.png",
 			"detailImg": "https://www.whiskas.de/content/img/product/detail/5900951259289.png",
 			"title": "Indoor mit Huhn 800g",
 			"detail":"Wir von Whiskas® verstehen, was ihre Katze von Natur aus braucht und liebt. Indoor Katzen können weniger aktiv sein als Outdoor Katzen. Deshalb wurde Whiskas® Indoor mit hochwertigen Inhaltsstoffen entwickelt."
 		},
 		{
-      "id": 4,
+      			"id": 4,
 			"thumbImg": "https://www.whiskas.de/content/img/product/thumb/5900951259470.png",
 			"detailImg": "https://www.whiskas.de/content/img/product/detail/5900951259470.png",
 			"title": "7+ Mit Huhn 800g",
 			"detail":"Wir von Whiskas® verstehen was Ihre Katze von Natur aus braucht und liebt.Im Laufe der Zeit ändern sich die Ernährungsbedürfnisse Ihrer Katze. Deshalb wurde Whiskas® 7+ speziell mit den richtigen Gehalt an Nährstoffen entwickelt, um die Vitalität Ihrer Katze zu bewahren und Ihnen zu ermöglichen Ihr die bestmögliche Fürsorge zukommen lassen zu können."
 		},
 		{
-      "id": 5,
+     			 "id": 5,
 			"thumbImg": "https://www.whiskas.de/content/img/product/thumb/5900951265310.png",
 			"detailImg": "https://www.whiskas.de/content/img/product/detail/5900951265310.png",
 			"title": "Junior Mit Lachs 800g",
 			"detail":"Wir von Whiskas® verstehen was Ihr Kätzchen von Natur aus braucht und liebt. Deshalb enthält Whiskas® 2-12 Monate alle, für die gesunde Entwicklung Ihres Kätzchens notwendigen Nährstoffe. Und es enthält leckere, mit Milch gefüllte Knackits®, welche Ihr."
-		}
-    {
-      "id": 6,
+		},
+		{
+      			"id": 6,
 			"thumbImg": "https://www.whiskas.de/content/img/product/thumb/5900951265358.png",
 			"detailImg": "https://www.whiskas.de/content/img/product/detail/5900951265358.png",
 			"title": "1+ Mit Huhn 800g",
@@ -46,7 +46,7 @@
 		},
 		
 		{
-      "id": 7,
+      			"id": 7,
 			"thumbImg": "https://www.whiskas.de/content/img/product/thumb/5900951259098.png",
 			"detailImg": "https://www.whiskas.de/content/img/product/detail/5900951259098.png",
 			"title": "1+ Mit Rind 800g",
@@ -54,21 +54,21 @@
 		},
 		
 		{
-      "id": 8,
+      			"id": 8,
 			"thumbImg": "https://www.whiskas.de/content/img/product/thumb/5900951259289.png",
 			"detailImg": "https://www.whiskas.de/content/img/product/detail/5900951259289.png",
 			"title": "Indoor mit Huhn 800g",
 			"detail":"Wir von Whiskas® verstehen, was ihre Katze von Natur aus braucht und liebt. Indoor Katzen können weniger aktiv sein als Outdoor Katzen. Deshalb wurde Whiskas® Indoor mit hochwertigen Inhaltsstoffen entwickelt."
 		},
 		{
-      "id": 9,
+      			"id": 9,
 			"thumbImg": "https://www.whiskas.de/content/img/product/thumb/5900951259470.png",
 			"detailImg": "https://www.whiskas.de/content/img/product/detail/5900951259470.png",
 			"title": "7+ Mit Huhn 800g",
 			"detail":"Wir von Whiskas® verstehen was Ihre Katze von Natur aus braucht und liebt.Im Laufe der Zeit ändern sich die Ernährungsbedürfnisse Ihrer Katze. Deshalb wurde Whiskas® 7+ speziell mit den richtigen Gehalt an Nährstoffen entwickelt, um die Vitalität Ihrer Katze zu bewahren und Ihnen zu ermöglichen Ihr die bestmögliche Fürsorge zukommen lassen zu können."
 		},
 		{
-      "id": 10,
+      			"id": 10,
 			"thumbImg": "https://www.whiskas.de/content/img/product/thumb/5900951265310.png",
 			"detailImg": "https://www.whiskas.de/content/img/product/detail/5900951265310.png",
 			"title": "Junior Mit Lachs 800g",
